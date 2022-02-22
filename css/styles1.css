@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.chaitext{
+    text-align:center; 
+}
+.anytime{
+  
+    font-family:Montserrat; 
+   font-size: 2rem;
+    padding-top: 5rem;
+    margin-left: 1rem;
+    text-align: right;
+    
+}
+.cup
+ {
+  text-align: end;   
+  margin-left: 5rem;
+  font-size: 15px;
+  font-weight: 500;
+  font-family:serif;
+}
+ .finest
+ {
+     font-weight: 500;
+     
+     padding-top: 2rem;
+     font-size: 20px;
+     text-align: right;
+     /* padding-left: 0.3rem; */
+ } 
+.kingimage
+ {
+     display: flex;
+     justify-content:center;
+     height:23rem;
+     margin-top: 3rem;
+     text-align: start;
+     
+ }
+ .chaiimage
+ {
+     display: flex;
+     justify-content:center;
+     height:25rem;
+     margin-top: 3rem;
+     text-align: center;
+     
+ }
+ 
+ 
+ .kingtext{
+     margin-top: 7rem;
+     text-align: start;
+     padding-top: 2rem;
+     font-size: 1.6rem;
+
+
+ }
+ .sip
+ {
+     font-weight: 300;
+ }
+ 
+ 
